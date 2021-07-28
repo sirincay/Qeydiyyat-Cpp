@@ -34,6 +34,6 @@ int main(){
 		cout << "\n\nMelumat Sehfdir! Giris Ugursuz....";
 	}
 	
-	getch (); //Proqram bitenden sonra, sonlandirma yazilari qaldirmaq ucun
+	getch (); //Proqram bitenden sonra, sonlandirma yazilari qaldirmaq ve Aniden qapanma duzeltmek ucun
 	return 0;
 }
