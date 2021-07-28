@@ -1,4 +1,4 @@
-//   Müəllif - t.me/HusnuEhedov 
+// Müəllif - t.me/HusnuEhedov 
 
 #include <iostream>  //Kitabxana, komponent, müeyyen bir menbe saxlayir
 #include <conio.h>   // Windows 7, proqramin sonu anidən qapanma xətası önləmək üçün:- getch();
