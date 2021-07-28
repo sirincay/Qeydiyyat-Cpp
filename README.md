@@ -1,4 +1,4 @@
 # Qeydiyyat-Cpp
 C++ ilə başlanğıc səviyyəsi üçün Qeydiyyat-Giriş Proqramı
-
-Proqramda ~~~c++ class,string ~~~
+Proqramda 
+~~~ class , string - Açar söz ve Funksiya İşlətdik ~~~
