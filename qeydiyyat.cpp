@@ -1,7 +1,7 @@
 //   Author - t.me/HusnuEhedov 
 
 #include <iostream>  //Kitabxana, komponent, müeyyen bir menbe saxlayir
-#include <conio.h>   // Windows 7, proqramin sonu anidən qapanma xətası önləmək üçün:- getch():
+#include <conio.h>   // Windows 7, proqramin sonu anidən qapanma xətası önləmək üçün:- getch();
 using namespace std;
 
 class Qeydiyyat{         //Açar Söz
