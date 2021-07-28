@@ -12,3 +12,4 @@ cout , cin
 ~~~ 
 class , string
 ~~~
+ Müəllif - t.me/HusnuEhedov
