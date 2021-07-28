@@ -1,5 +1,4 @@
-# Qeydiyyat-Cpp
-C++ ilə başlanğıc səviyyəsi üçün Qeydiyyat-Giriş Proqramı
+# C++ ilə başlanğıc səviyyəsi üçün!
 
 İstifadə Olunan Kitabxanalar:
 ~~~
