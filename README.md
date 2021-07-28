@@ -4,3 +4,6 @@ Proqramda
 ~~~ 
 class , string - Açar söz ve Funksiya İşlətdik
 ~~~
+İstifadə Olunan Kitabxana:
+~~~
+iostream , conio.h
